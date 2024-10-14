@@ -1,0 +1,17 @@
+@charset "UTF-8"
+
+*{
+
+}
+head{
+      background-image: linear-gradient(to right, red, black);
+    }
+
+    h1{
+        color: rgb(201, 12, 12);
+        text-align: center;
+    }
+    h2{
+        text-align: center;
+    }
+  
